@@ -1,4 +1,4 @@
-package com.charon;
+package com.charon.lambda;
 
 import org.junit.Test;
 

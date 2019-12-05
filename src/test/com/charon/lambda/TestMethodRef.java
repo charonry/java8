@@ -1,4 +1,4 @@
-package com.charon;
+package com.charon.lambda;
 
 import com.charon.entity.Employee;
 import org.junit.Test;
