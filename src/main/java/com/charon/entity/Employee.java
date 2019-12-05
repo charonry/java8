@@ -17,6 +17,10 @@ public class Employee {
         this.salary = salary;
     }
 
+    public Employee(Integer age) {
+        this.age = age;
+    }
+
     public Employee() {
     }
 
