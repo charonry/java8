@@ -1,0 +1,5 @@
+hello charon
+ FileChannel inChannel = FileChannel.open(Paths.get("file.txt"), StandardOpenOption.READ);
+        FileChannel outChannel = FileChannel.open(Paths.get("copyFile2.txt"),
+                StandardOpenOption.WRITE,StandardOpenOption.READ, StandardOpenOption.CREATE_NEW);
+hello charon
